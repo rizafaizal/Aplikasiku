@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">Aplikasiku</string>
+    <string name="soal_1">Soal 1</string>
+    <string name="soal_2">SOAL 2</string>
+    <string name="soal_3">SOAL 3</string>
+    <string name="input_fibonacci">Masukan Angka Fibonacci :</string>
+    <string name="proses">Proses</string>
+    <string name="input_anagram1">Masukan kata pertama</string>
+    <string name="input_anagram2">Masukan kata kedua</string>
+    <string name="permutasi_n">Masukan angka (n)</string>
+    <string name="permutasi_r">Masukan angka (r)</string>
+</resources>
